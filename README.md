@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GREATWAYS
+- 👋 Hi, I’m @GREATWAYS Enterprise
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Versioning with git
 - 💞️ I’m looking to collaborate versioning with my team of achievers 
